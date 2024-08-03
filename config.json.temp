@@ -5,7 +5,7 @@
     "notiGroup": true,
     "iconUnsend": {
         "status": true,
-        "icon": "🤣"
+        "icon": "😠"
     },
     "NPM_FCA": "./data/fca-jrt",
     "configApi": {
@@ -38,18 +38,18 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "YOUTUBE_ADMIN": "https://www.youtube.com/@jrtofficial340",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/NHD.JRT.262",
-    "INSTAGRAM_ADMIN": "https://www.instagram.com/hd.jrt.2k3/",
-    "TIKTOK_ADMIN": "https://www.tiktok.com/@hd.jrt03",
-    "LINK_PROFILE": "https://bio.link/nhdjrt262",
-    "DONATE_MOMO": "https://i.imgur.com/qIJ4kSw.jpg",
-    "DONATE_ATM": "https://i.imgur.com/AtkdMLp.jpg",
-    "BOTNAME": "𝐉𝐑𝐓 𝐱 𝐓𝐫𝐚𝐜𝐲 - Hãy đặt tên cho bot của bạn nha - nhớ xóa dòng này rồi đặt",
-    "PREFIX": "# - Hãy đặt dấu lệnh cho bot của bạn nha - nhớ xóa dòng này rồi đặt",
+    "YOUTUBE_ADMIN": "",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/100081293425403",
+    "INSTAGRAM_ADMIN": "",
+    "TIKTOK_ADMIN": "",
+    "LINK_PROFILE": "",
+    "DONATE_MOMO": "",
+    "DONATE_ATM": "",
+    "BOTNAME": "human",
+    "PREFIX": "!",
     "NDH": [],
     "ADMINBOT": [
-        "100033478361032 - Hãy đặt uid của bạn nha - nhớ xóa dòng này rồi đặt"
+        "100081293425403"
     ],
     "DATABASE": {
         "sqlite": {

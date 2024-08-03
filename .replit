@@ -1,2 +1,6 @@
 run = "clear && npm start"
 entrypoint = "main.sh"
+
+[[ports]]
+localPort = 8888
+externalPort = 80
