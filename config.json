@@ -1,0 +1,68 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
+    "NPM_FCA": "./data/fca-jrt",
+    "configApi": {
+        "domain1": "https://apis-jrt.catteam123.repl.co",
+        "ninoapi": "https://jrt-api.jrtxtracy.repl.co",
+        "upanh": "https://uploadimg.jrtlovetracy.repl.co",
+        "domain": "https://docs-api.jrtxtracy.repl.co",
+        "keyApi": "JRTfree_4097397695",
+        "keyApi1": "JRTfree_8320446508",
+        "ghichu": "https://ghichu.jrtxtracy.repl.co",
+        "notepad": "https://note.jrtlovetracy.repl.co",
+        "webapi": "https://web-api.jrtxtracy.repl.co/docs"
+    },
+    "ndhOnly": false,
+    "adminOnly": false,
+    "NOTIFICATION": true,
+    "allowInbox": false,
+    "autoClean": true,
+    "duyetbox": true,
+    "adminPaseOnly": false,
+    "UPTIME": 0,
+    "leave": {
+        "status": true,
+        "number": 10
+    },
+    "version": "2.0.0",
+    "encryptState": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "YOUTUBE_ADMIN": "",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/100081293425403",
+    "INSTAGRAM_ADMIN": "",
+    "TIKTOK_ADMIN": "",
+    "LINK_PROFILE": "",
+    "DONATE_MOMO": "",
+    "DONATE_ATM": "",
+    "BOTNAME": "human",
+    "PREFIX": "!",
+    "NDH": [],
+    "ADMINBOT": [
+        "100081293425403"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    }
+}

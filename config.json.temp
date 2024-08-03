@@ -1,0 +1,68 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "🤣"
+    },
+    "NPM_FCA": "./data/fca-jrt",
+    "configApi": {
+        "domain1": "https://apis-jrt.catteam123.repl.co",
+        "ninoapi": "https://jrt-api.jrtxtracy.repl.co",
+        "upanh": "https://uploadimg.jrtlovetracy.repl.co",
+        "domain": "https://docs-api.jrtxtracy.repl.co",
+        "keyApi": "JRTfree_4097397695",
+        "keyApi1": "JRTfree_8320446508",
+        "ghichu": "https://ghichu.jrtxtracy.repl.co",
+        "notepad": "https://note.jrtlovetracy.repl.co",
+        "webapi": "https://web-api.jrtxtracy.repl.co/docs"
+    },
+    "ndhOnly": false,
+    "adminOnly": false,
+    "NOTIFICATION": true,
+    "allowInbox": false,
+    "autoClean": true,
+    "duyetbox": true,
+    "adminPaseOnly": false,
+    "UPTIME": 0,
+    "leave": {
+        "status": true,
+        "number": 10
+    },
+    "version": "2.0.0",
+    "encryptState": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "YOUTUBE_ADMIN": "https://www.youtube.com/@jrtofficial340",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/NHD.JRT.262",
+    "INSTAGRAM_ADMIN": "https://www.instagram.com/hd.jrt.2k3/",
+    "TIKTOK_ADMIN": "https://www.tiktok.com/@hd.jrt03",
+    "LINK_PROFILE": "https://bio.link/nhdjrt262",
+    "DONATE_MOMO": "https://i.imgur.com/qIJ4kSw.jpg",
+    "DONATE_ATM": "https://i.imgur.com/AtkdMLp.jpg",
+    "BOTNAME": "𝐉𝐑𝐓 𝐱 𝐓𝐫𝐚𝐜𝐲 - Hãy đặt tên cho bot của bạn nha - nhớ xóa dòng này rồi đặt",
+    "PREFIX": "# - Hãy đặt dấu lệnh cho bot của bạn nha - nhớ xóa dòng này rồi đặt",
+    "NDH": [],
+    "ADMINBOT": [
+        "100033478361032 - Hãy đặt uid của bạn nha - nhớ xóa dòng này rồi đặt"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    }
+}
